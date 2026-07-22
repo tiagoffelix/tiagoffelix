@@ -1,16 +1,14 @@
-## Hi there 👋
+# Tiago Félix
 
-<!--
-**tiagoffelix/tiagoffelix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software & Game Systems Developer based in Portugal.
 
-Here are some ideas to get you started:
+I build full-stack applications, Unity gameplay systems, AI and development tools. I hold a BSc in Computer Science & Engineering and am completing a Master's in Game Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+
+- [Dungeon Wipe](https://github.com/tiagoffelix/Dungeon-Wipe) — Unity, C#, JSON level editor, AI and DDA research
+- [LusoHealth](https://github.com/tiagoffelix/lusohealth) — ASP.NET Core, Angular and SQL Server team project
+- [Exile](https://github.com/tiagoffelix/Exile) — Unity gameplay architecture, progression and persistence
+- [With.in](https://github.com/tiagoffelix/with_in) — Earlier Angular frontend implementation
+
+[Portfolio](https://tiagoffelix.com) · [LinkedIn](https://www.linkedin.com/in/tiago-félix) · [Itch.io](https://speazyy.itch.io/)
